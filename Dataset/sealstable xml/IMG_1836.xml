@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sealsatble</folder>
+	<filename>IMG_1836.jpg</filename>
+	<path>C:\Users\MENDE MUKESH\Desktop\dataset\sealsatble\IMG_1836.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sealstable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>731</xmin>
+			<ymin>502</ymin>
+			<xmax>1944</xmax>
+			<ymax>1502</ymax>
+		</bndbox>
+	</object>
+</annotation>

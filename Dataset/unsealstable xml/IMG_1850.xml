@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UNSEALED</folder>
+	<filename>IMG_1850.jpg</filename>
+	<path>C:\Users\MENDE MUKESH\Desktop\dataset\UNSEALED\IMG_1850.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unsealed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>280</ymin>
+			<xmax>1461</xmax>
+			<ymax>1289</ymax>
+		</bndbox>
+	</object>
+</annotation>
